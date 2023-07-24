@@ -18,7 +18,7 @@
     "id": "XgqUO87IY9",
     "type": "header",
     "data": {
-      "text": "Transformisem treci pasus u title i brisem drugi pasus",
+      "text": "Samo menjam text",
       "level": 2
     }
   }
