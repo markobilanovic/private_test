@@ -15,17 +15,11 @@
     }
   },
   {
-    "id": "fWItrQN9Pq",
-    "type": "paragraph",
+    "id": "XgqUO87IY9",
+    "type": "header",
     "data": {
-      "text": "Dodajem drugi i treci pasus"
-    }
-  },
-  {
-    "id": "KIRWozUHuk",
-    "type": "paragraph",
-    "data": {
-      "text": "Ovo je treci pasus"
+      "text": "Transformisem treci pasus u title i brisem drugi pasus",
+      "level": 2
     }
   }
 ]
