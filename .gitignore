@@ -1,1 +1,17 @@
-[{"id":"81Nk2C392w","type":"header","data":{"text":"Git ignore","level":2}},{"id":"4uUTOAZn6I","type":"paragraph","data":{"text":"Test"}}]
+[
+  {
+    "id": "81Nk2C392w",
+    "type": "header",
+    "data": {
+      "text": "Idemo iz pocetka",
+      "level": 2
+    }
+  },
+  {
+    "id": "4uUTOAZn6I",
+    "type": "paragraph",
+    "data": {
+      "text": "test za dodati red"
+    }
+  }
+]
