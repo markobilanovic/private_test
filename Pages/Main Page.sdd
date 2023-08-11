@@ -1,25 +1,10 @@
 [
   {
-    "id": "67M-2fWEfc",
+    "id": "81Nk2C392w",
     "type": "header",
     "data": {
-      "text": "Title Specifikacije",
+      "text": "Main Page",
       "level": 2
     }
   },
-  {
-    "id": "NYjkUiblA7",
-    "type": "paragraph",
-    "data": {
-      "text": "dodajem prvi pasus i modifikujem title"
-    }
-  },
-  {
-    "id": "XgqUO87IY9",
-    "type": "header",
-    "data": {
-      "text": "Samo menjam text",
-      "level": 2
-    }
-  }
 ]
