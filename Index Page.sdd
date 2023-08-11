@@ -3,7 +3,7 @@
     "id": "81Nk2C392w",
     "type": "header",
     "data": {
-      "text": "Update infopage",
+      "text": "Index page",
       "level": 2
     }
   },
@@ -11,35 +11,7 @@
     "id": "j1937gnJxo",
     "type": "paragraph",
     "data": {
-      "text": "R 23"
-    }
-  },
-  {
-    "id": "yhmmHIv-T3",
-    "type": "paragraph",
-    "data": {
-      "text": "test654654654"
-    }
-  },
-  {
-    "id": "qbqGhLWKmR",
-    "type": "paragraph",
-    "data": {
-      "text": "menjam"
-    }
-  },
-  {
-    "id": "yOIQKN8Z6m",
-    "type": "paragraph",
-    "data": {
-      "text": "TEST"
-    }
-  },
-  {
-    "id": "E4rPxVIANR",
-    "type": "paragraph",
-    "data": {
-      "text": "dodajem"
+      "text": "Novi branch"
     }
   }
 ]
