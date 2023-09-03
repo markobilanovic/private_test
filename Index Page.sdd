@@ -3,43 +3,15 @@
     "id": "81Nk2C392w",
     "type": "header",
     "data": {
-      "text": "Update infopage",
+      "text": "Index page",
       "level": 2
     }
   },
   {
-    "id": "j1937gnJxo",
+    "id": "QjLh-KClzw",
     "type": "paragraph",
     "data": {
-      "text": "R 23123"
-    }
-  },
-  {
-    "id": "yhmmHIv-T3",
-    "type": "paragraph",
-    "data": {
-      "text": "test654654654"
-    }
-  },
-  {
-    "id": "qbqGhLWKmR",
-    "type": "paragraph",
-    "data": {
-      "text": "menjam"
-    }
-  },
-  {
-    "id": "yOIQKN8Z6m",
-    "type": "paragraph",
-    "data": {
-      "text": "TEST"
-    }
-  },
-  {
-    "id": "E4rPxVIANR",
-    "type": "paragraph",
-    "data": {
-      "text": "dodajem"
+      "text": "Kad se ode na sajt docunest.io prvo se pojavljuje login strana."
     }
   }
 ]
