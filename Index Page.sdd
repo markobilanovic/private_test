@@ -13,5 +13,12 @@
     "data": {
       "text": "Kad se ode na sajt docunest.io prvo se pojavljuje login strana."
     }
+  },
+  {
+    "id": "-E_wLdJ6q7",
+    "type": "paragraph",
+    "data": {
+      "text": "Nakon uspesnog logina navigira se na home page"
+    }
   }
 ]
